@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/neel685/neel685/blob/main/hello_n_welcome.jpg" alt="Hello 'N Welcome" /><br>
 <h3 align="center"> Hi there, I'm Neel Mandal </h3>
-- 🖥️ An amateur 16 year old developer <br>
+- 🖥️ An amateur 17 year old developer <br>
 - 🤖 Part of the core team and official maintainer for Xiaomi Poco F1(beryllium) at the Styx Project and ShapeShiftOS. <br>
 - 📱 AOSP developer for Qualcomm devices.<br>
 - 🐍 Learning Java, C, bash. <br>
